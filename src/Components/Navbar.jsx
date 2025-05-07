@@ -6,7 +6,7 @@ function Navbar() {
     <div>
       <Link to="/"> Home </Link>
       <Link to="/movies"> Movies </Link>
-      <Link to="/moviesdetails"> Details </Link>
+      {/* <Link to="/moviesdetails"> Details </Link> */}
     </div>
   );
 }
